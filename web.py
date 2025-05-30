@@ -9,7 +9,7 @@ from selenium.webdriver.common.by import By
 url = input("Enter your url:")
 cl = input("Enter your img class:")
 
-PATH = "C:\\Users\\Asus\\Desktop\\python web\\chromedriver.exe"
+PATH = "C:\\Users\\Asus\\Desktop\\python web\\chromedriver.exe" #Your Path 
 
 
 
